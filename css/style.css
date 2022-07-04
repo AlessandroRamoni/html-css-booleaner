@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1200px;
+} 
+
+header{
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 150px;
+}
+
+.grigio{
+    color: rgb(180, 173, 164);
+}
+
+main section h1{
+    font-size: 40px;
+}
+
+main h3 span{
+    color: rgb(0, 224, 224);
+}

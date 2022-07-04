@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     max-width: 1200px;
+    font-size: 18px;
 } 
 
 header{
@@ -11,6 +12,13 @@ header{
     background-size: contain;
     background-repeat: repeat-x;
     height: 150px;
+}
+
+header img{
+    position: relative;
+    left: 0;
+    top: 70px;
+    width: 300px;
 }
 
 .grigio{
@@ -60,6 +68,10 @@ table{
     text-align: center;
 }
 
+
+footer h4{
+    margin-top: 45px;
+}
 .photofooter{
     background-size: contain;
     background-repeat: no-repeat;

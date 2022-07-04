@@ -6,6 +6,7 @@
 } 
 
 header{
+    background-color: rgb(36, 117, 238);
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-repeat: repeat-x;
@@ -16,10 +17,63 @@ header{
     color: rgb(180, 173, 164);
 }
 
+.highlighter{
+    background-color: rgb(241, 255, 49);
+}
+
 main section h1{
     font-size: 40px;
 }
 
 main h3 span{
     color: rgb(0, 224, 224);
+}
+
+.margine{
+    margin-top: 20px;
+}
+
+section div ul{
+    margin-left: 15px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.padding{
+    height: 30px;
+}
+
+#titolo{
+    background-color: rgb(16, 136, 235);
+}
+
+.over{
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: center;
+}
+
+.photofooter{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    color: #FFFFFF;
+    font-size: 23px;
+}
+
+#firstphoto{
+    background-image: url(../img/monitor.jpg);
+   
+}
+
+#secondphoto{
+    background-image: url(../img/graph.jpg);
+   
 }

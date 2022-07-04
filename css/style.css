@@ -7,7 +7,7 @@
 } 
 
 header{
-    background-color: rgb(36, 117, 238);
+    background-color: rgba(78,160,255,255);
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-repeat: repeat-x;
@@ -22,11 +22,11 @@ header img{
 }
 
 .grigio{
-    color: rgb(180, 173, 164);
+    color: #858585;
 }
 
 .highlighter{
-    background-color: rgb(241, 255, 49);
+    background-color: #ffff00;
 }
 
 main section h1{
@@ -34,7 +34,7 @@ main section h1{
 }
 
 main h3 span{
-    color: rgb(0, 224, 224);
+    color: #34b0e7;
 }
 
 .margine{
@@ -42,7 +42,7 @@ main h3 span{
 }
 
 section div ul{
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 table{
@@ -51,12 +51,22 @@ table{
 
 }
 
+#larghezzatabella{
+    width: 50%;
+}
+
 .padding{
-    height: 30px;
+    height: 60px;
 }
 
 #titolo{
-    background-color: rgb(16, 136, 235);
+    background-color: #20a9e5;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.sfondoblu{
+    background-color: #b1e5f2;
 }
 
 .over{

@@ -11,13 +11,13 @@ header{
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-repeat: repeat-x;
-    height: 150px;
+    height: 120px;
 }
 
 header img{
     position: relative;
     left: 0;
-    top: 70px;
+    top: 50px;
     width: 300px;
 }
 

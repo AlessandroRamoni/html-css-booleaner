@@ -99,3 +99,8 @@ footer h4{
     background-image: url(../img/graph.jpg);
    
 }
+
+main, footer{
+    margin-left: 10px;
+    margin-right: 10px;
+}

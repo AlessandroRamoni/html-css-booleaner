@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* max-width: 1100px; */
-    font-size: 18px;
+    font-size: 1.2rem;
 } 
 
 header{
@@ -49,9 +49,8 @@ table{
     border-collapse: collapse;
 
 }
-
-#larghezzatabella{
-    width: 50%;
+.larghezzatabella{
+    width: 25%;
 }
 
 .padding{
@@ -86,7 +85,7 @@ footer h4{
     background-repeat: no-repeat;
     height: 150px;
     color: #FFFFFF;
-    font-size: 23px;
+    font-size: 1em;
 }
 
 #firstphoto{
